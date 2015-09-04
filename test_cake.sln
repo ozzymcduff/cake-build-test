@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_cake", "test_cake\test_cake.csproj", "{01AEF545-865D-4DDB-AAF5-1CFD77FC6ADE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_cake.Tests", "test_cake.Tests\test_cake.Tests.csproj", "{AA4DA200-C772-403E-9EEC-D2C5607D27D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01AEF545-865D-4DDB-AAF5-1CFD77FC6ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AEF545-865D-4DDB-AAF5-1CFD77FC6ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AEF545-865D-4DDB-AAF5-1CFD77FC6ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AEF545-865D-4DDB-AAF5-1CFD77FC6ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA4DA200-C772-403E-9EEC-D2C5607D27D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA4DA200-C772-403E-9EEC-D2C5607D27D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA4DA200-C772-403E-9EEC-D2C5607D27D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA4DA200-C772-403E-9EEC-D2C5607D27D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
